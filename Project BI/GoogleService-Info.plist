@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>944720616764-3kd4rfj87u9533hv5id7adsg9b72u4ns.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.944720616764-3kd4rfj87u9533hv5id7adsg9b72u4ns</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAed6cNzvYJcsCYUBQj6ZByUuKZ-XyPp5g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>944720616764</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ATIK-Tech.Project-BI</string>
+	<key>PROJECT_ID</key>
+	<string>projectbi-ia</string>
+	<key>STORAGE_BUCKET</key>
+	<string>projectbi-ia.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:944720616764:ios:4e8eb488defeeab4</string>
+	<key>DATABASE_URL</key>
+	<string>https://projectbi-ia.firebaseio.com</string>
+</dict>
+</plist>
