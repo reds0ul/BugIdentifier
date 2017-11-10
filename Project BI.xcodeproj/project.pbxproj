@@ -11,6 +11,7 @@
 		4711CD211FB3B73A00609BC1 /* iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4711CD201FB3B73A00609BC1 /* iPad.storyboard */; };
 		47C2D33E1FB5067300AFE1BC /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 47C2D33D1FB5067300AFE1BC /* GoogleService-Info.plist */; };
 		47C2D3401FB50BFF00AFE1BC /* registerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47C2D33F1FB50BFF00AFE1BC /* registerViewController.swift */; };
+		47C2D3421FB524CA00AFE1BC /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 47C2D3411FB524C900AFE1BC /* Settings.bundle */; };
 		47E532061FB3AE84008D6507 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E532051FB3AE84008D6507 /* AppDelegate.swift */; };
 		47E532081FB3AE84008D6507 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E532071FB3AE84008D6507 /* ViewController.swift */; };
 		47E5320B1FB3AE85008D6507 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47E532091FB3AE85008D6507 /* Main.storyboard */; };
@@ -23,6 +24,7 @@
 		4711CD201FB3B73A00609BC1 /* iPad.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = iPad.storyboard; sourceTree = "<group>"; };
 		47C2D33D1FB5067300AFE1BC /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		47C2D33F1FB50BFF00AFE1BC /* registerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = registerViewController.swift; sourceTree = "<group>"; };
+		47C2D3411FB524C900AFE1BC /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 		47E532021FB3AE84008D6507 /* Project BI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project BI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		47E532051FB3AE84008D6507 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		47E532071FB3AE84008D6507 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				47C2D33F1FB50BFF00AFE1BC /* registerViewController.swift */,
 				47E532071FB3AE84008D6507 /* ViewController.swift */,
 				47E532091FB3AE85008D6507 /* Main.storyboard */,
+				47C2D3411FB524C900AFE1BC /* Settings.bundle */,
 				4711CD201FB3B73A00609BC1 /* iPad.storyboard */,
 				47E5320C1FB3AE85008D6507 /* Assets.xcassets */,
 				47E5320E1FB3AE85008D6507 /* LaunchScreen.storyboard */,
@@ -163,6 +166,7 @@
 				47E532101FB3AE85008D6507 /* LaunchScreen.storyboard in Resources */,
 				47C2D33E1FB5067300AFE1BC /* GoogleService-Info.plist in Resources */,
 				47E5320D1FB3AE85008D6507 /* Assets.xcassets in Resources */,
+				47C2D3421FB524CA00AFE1BC /* Settings.bundle in Resources */,
 				47E5320B1FB3AE85008D6507 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

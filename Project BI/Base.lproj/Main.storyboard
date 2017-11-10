@@ -195,7 +195,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" placeholderIntrinsicWidth="343" placeholderIntrinsicHeight="40" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="h8b-e5-r1b">
-                                <rect key="frame" x="16" y="407" width="343" height="40"/>
+                                <rect key="frame" x="16" y="296" width="343" height="40"/>
                                 <color key="backgroundColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <state key="normal" title="LOGIN">
                                     <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -205,7 +205,7 @@
                                 </connections>
                             </button>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" translatesAutoresizingMaskIntoConstraints="NO" id="HBx-Ij-88O">
-                                <rect key="frame" x="16" y="206" width="343" height="60.5"/>
+                                <rect key="frame" x="16" y="95" width="343" height="60.5"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Email" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iYI-Pm-Kad">
                                         <rect key="frame" x="0.0" y="0.0" width="41" height="20.5"/>
@@ -226,7 +226,7 @@
                                 </constraints>
                             </stackView>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" translatesAutoresizingMaskIntoConstraints="NO" id="fa3-Rf-7vY">
-                                <rect key="frame" x="16" y="306.5" width="343" height="60.5"/>
+                                <rect key="frame" x="16" y="195.5" width="343" height="60.5"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Password" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VcC-U1-dbf">
                                         <rect key="frame" x="0.0" y="0.0" width="74" height="20.5"/>
@@ -247,7 +247,7 @@
                                 </constraints>
                             </stackView>
                             <stackView opaque="NO" contentMode="scaleToFill" spacing="148" translatesAutoresizingMaskIntoConstraints="NO" id="m8d-lj-4MV">
-                                <rect key="frame" x="16" y="455" width="343" height="30"/>
+                                <rect key="frame" x="16" y="344" width="343" height="30"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ghm-cj-Rre">
                                         <rect key="frame" x="0.0" y="0.0" width="140" height="30"/>
@@ -271,7 +271,7 @@
                         <constraints>
                             <constraint firstItem="m8d-lj-4MV" firstAttribute="top" secondItem="h8b-e5-r1b" secondAttribute="bottom" constant="8" id="0hg-gs-Ncu"/>
                             <constraint firstItem="HBx-Ij-88O" firstAttribute="leading" secondItem="nh9-aC-lo1" secondAttribute="leading" constant="16" id="1se-ew-4sC"/>
-                            <constraint firstItem="HBx-Ij-88O" firstAttribute="top" secondItem="nh9-aC-lo1" secondAttribute="top" constant="186" id="2mh-mi-cb1"/>
+                            <constraint firstItem="HBx-Ij-88O" firstAttribute="top" secondItem="nh9-aC-lo1" secondAttribute="top" constant="75" id="2mh-mi-cb1"/>
                             <constraint firstItem="nh9-aC-lo1" firstAttribute="trailing" secondItem="h8b-e5-r1b" secondAttribute="trailing" constant="16" id="5sP-Be-o0w"/>
                             <constraint firstItem="nh9-aC-lo1" firstAttribute="trailing" secondItem="HBx-Ij-88O" secondAttribute="trailing" constant="16" id="B4l-7O-nyp"/>
                             <constraint firstItem="h8b-e5-r1b" firstAttribute="leading" secondItem="nh9-aC-lo1" secondAttribute="leading" constant="16" id="SaE-mx-EyP"/>
