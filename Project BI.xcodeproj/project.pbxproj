@@ -10,6 +10,7 @@
 		4648941D9445193B354651A9 /* Pods_Project_BI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32B2A2F39E4000FF82B85723 /* Pods_Project_BI.framework */; };
 		4711CD211FB3B73A00609BC1 /* iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4711CD201FB3B73A00609BC1 /* iPad.storyboard */; };
 		47C2D33E1FB5067300AFE1BC /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 47C2D33D1FB5067300AFE1BC /* GoogleService-Info.plist */; };
+		47C2D3401FB50BFF00AFE1BC /* registerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47C2D33F1FB50BFF00AFE1BC /* registerViewController.swift */; };
 		47E532061FB3AE84008D6507 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E532051FB3AE84008D6507 /* AppDelegate.swift */; };
 		47E532081FB3AE84008D6507 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E532071FB3AE84008D6507 /* ViewController.swift */; };
 		47E5320B1FB3AE85008D6507 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47E532091FB3AE85008D6507 /* Main.storyboard */; };
@@ -21,6 +22,7 @@
 		32B2A2F39E4000FF82B85723 /* Pods_Project_BI.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Project_BI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4711CD201FB3B73A00609BC1 /* iPad.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = iPad.storyboard; sourceTree = "<group>"; };
 		47C2D33D1FB5067300AFE1BC /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		47C2D33F1FB50BFF00AFE1BC /* registerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = registerViewController.swift; sourceTree = "<group>"; };
 		47E532021FB3AE84008D6507 /* Project BI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project BI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		47E532051FB3AE84008D6507 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		47E532071FB3AE84008D6507 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 			isa = PBXGroup;
 			children = (
 				47E532051FB3AE84008D6507 /* AppDelegate.swift */,
+				47C2D33F1FB50BFF00AFE1BC /* registerViewController.swift */,
 				47E532071FB3AE84008D6507 /* ViewController.swift */,
 				47E532091FB3AE85008D6507 /* Main.storyboard */,
 				4711CD201FB3B73A00609BC1 /* iPad.storyboard */,
@@ -233,6 +236,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47C2D3401FB50BFF00AFE1BC /* registerViewController.swift in Sources */,
 				47E532081FB3AE84008D6507 /* ViewController.swift in Sources */,
 				47E532061FB3AE84008D6507 /* AppDelegate.swift in Sources */,
 			);
