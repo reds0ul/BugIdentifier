@@ -1,0 +1,6 @@
+framework module Pods_Project_BI {
+  umbrella header "Pods-Project BI-umbrella.h"
+
+  export *
+  module * { export * }
+}
