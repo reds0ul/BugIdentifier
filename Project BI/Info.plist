@@ -26,10 +26,8 @@
 	<string>Main</string>
 	<key>UIMainStoryboardFile~ipad</key>
 	<string>iPad</string>
-	<key>UIRequiredDeviceCapabilities</key>
-	<array>
-		<string>armv7</string>
-	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
